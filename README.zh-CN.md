@@ -1,5 +1,8 @@
 # ChatGPT-API Demo
 
+## 发布历史
+- Jul 4
+
 [English](./README.md) | 简体中文
 
 一个基于 [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat) 的 demo。
